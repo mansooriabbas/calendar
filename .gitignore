@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# Thumbnails
+Thumbs.db
+
+# Compiled files
+*.log
+*.min.css
+*.min.js
+
+# Environment variables
+.env
